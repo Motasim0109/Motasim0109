@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Motasim0109
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ Hi, I’m @Motasim0109 
+ Physics and Computer Science major at McGill University
+
 
 <!---
 Motasim0109/Motasim0109 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
