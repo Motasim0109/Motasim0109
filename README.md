@@ -1,5 +1,5 @@
  Hi, I’m @Motasim0109 
- Physics and Computer Science major at McGill University
+ McGill Physics & CS grad | Data Science & Software Development | Montreal
 
 
 <!---
